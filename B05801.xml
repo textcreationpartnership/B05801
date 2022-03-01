@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An advertisement concerning those most famous cathartique and diuretique pills. Being an incomparable medicine in all chronical and dangerous diseases; wherewith was cured the late Lord General Monck of the dropsie: : some hundreds before, and many since, having received absolute cure thereby ... / Prepared only by William Sermon ...</title>
+            <author>Sermon, William, 1629?-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1671</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05801</idno>
+            <idno type="STC">Wing S2624A</idno>
+            <idno type="STC">ESTC R183736</idno>
+            <idno type="EEBO-CITATION">49520986</idno>
+            <idno type="OCLC">ocm 49520986</idno>
+            <idno type="VID">174214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174214)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2676:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An advertisement concerning those most famous cathartique and diuretique pills. Being an incomparable medicine in all chronical and dangerous diseases; wherewith was cured the late Lord General Monck of the dropsie: : some hundreds before, and many since, having received absolute cure thereby ... / Prepared only by William Sermon ...</title>
+                  <author>Sermon, William, 1629?-1679.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The fourth edition enlarged.</edition>
+               </editionStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author and Edward Thomas at the Adam and Eve in Little Britain,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Wellcome Institute for the History of Medicine. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term>Patent medicines --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174214:1"/>
+            <pb facs="tcp:174214:1" rendition="simple:additions"/>
+            <p>AN ADVERTISEMENT Concerning thoſe moſt Famous Cathartique and Diuretique PILLS. Being an Incomparable Medicine in all Chronical and Dangerous Diſeaſes; Wherewith was Cured The late Lord General <hi>MONCK</hi> Of the DROPSIE: Some hundreds before, and many ſince, having received abſolute Cure thereby. And it is alſo a moſt certain Remedy againſt the SCURVY, with all other ſharp, ſalt, and watry Humours. It Purifies and ſweetens the Blood, and prevents Infectious Diſtempers.</p>
+            <p>Prepared only by <hi>WILLIAM SERMON</hi> Doctor of Phyſick, and one of his Majeſties Phyſicians in Ordinary.</p>
+            <p>
+               <hi>The Fourth Edition Enlarged.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and <hi>Edward Thomas</hi> at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Britain,</hi> 1671.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:174214:2"/>
+            <pb n="1" facs="tcp:174214:2"/>
+            <head>D<hi rend="sup">r.</hi> Sermon's Cathartique and Diuretique PILLS.</head>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>HAving through the wonderful Good<g ref="char:EOLhyphen"/>neſs and Mercy of the Almighty God, by long experience in ſearch<g ref="char:EOLhyphen"/>ing the great Volume of Nature, by a dili<g ref="char:EOLhyphen"/>gent inſpection, obſerving the property of each Diſtemper, with the nature and occult quality of Metals, Minerals, and Vegetables; ſome years paſt arrived to the ſublime prepa<g ref="char:EOLhyphen"/>ration of this moſt excellent Medicine, whoſe tranſcendent Virtues (of late) have been know to many perſons of great worth. A Medicament ſo exceeding rare as admits no Rival for the performance of the foreſaid Cures, <hi>&amp;c.</hi> the want of which every year cauſeth great numbers of Men, Women, and Children to deſcend untimely to their Graves.</p>
+            <pb n="2" facs="tcp:174214:3"/>
+            <p>Therefore I conceive it a duty highly in<g ref="char:EOLhyphen"/>cumbent on me, to let the World ſhare with me in the diſpenſation of ſo Divine a Bleſ<g ref="char:EOLhyphen"/>ſing: and ſo having conſequently taken upon me to give this Advertiſement, to the intent my Country-men may underſtand how ready and willing I am to communicate what I have received from the Author of all good things.</p>
+            <p>To ſpeak much in the praiſe of theſe Pills, were but to give jealouſie, and indeed occa<g ref="char:EOLhyphen"/>ſion to undervalue them; this being the pro<g ref="char:EOLhyphen"/>duct and reſult of my Travels, and Lucubra<g ref="char:EOLhyphen"/>tions: I would not be cenſured ſo over-fond to perſwade the World 'tis worth Reception, ſince 'tis more proper I ſhould refer you to others to be informed of the Virtues thereof, which few inſtances ſhall ſerve for all.</p>
+            <p>I here omit to make mention of the per<g ref="char:EOLhyphen"/>ſons I have cured of the <hi>Dropſie,</hi> and <hi>Scurvy</hi> in the City of <hi>London,</hi> 1662. 63. and 64. and ſhall only inſert ſome remarkable Cures performed of late years in the City of <hi>Briſtol,</hi> before I was ſent for from thence to Cure his Grace the late Lord General <hi>Monck,</hi> who by the virtue of my Pills in 28 days, evacu<g ref="char:EOLhyphen"/>ated by Stool 12 Gallons of Water, his Swel<g ref="char:EOLhyphen"/>lings all abated, and he became perfectly Cured, as you may underſtand by what fol<g ref="char:EOLhyphen"/>lows,
+<pb n="3" facs="tcp:174214:3"/>being a True Copy of the Certificate under his Hand and Seal.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>
+                     <hi>Theſe are to certifie all whom it may con<g ref="char:EOLhyphen"/>cern, That Mr.</hi> William Sermon, <hi>Profeſſor of Phyſick, was the perſon, by Gods Bleſſing, who did perfectly Cure me with much eaſe, and in a ſhort time. Given under my Hand and Seal at</hi> New-hall <hi>this</hi> 12th <hi>day of</hi> July, 1669.</p>
+                  <closer>
+                     <signed>Albemarle.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>In this Edition I have omitted to inſert the Caſe of the Duke of <hi>Albemarle,</hi> as it was found in Diſſection, <hi>Jan.</hi> 4. 1669. believing all ſober Perſons are well informed, that his Grace was perfectly Cured by my Pills, and that at laſt he died not of the Dropſie, as many Enviouſly ſtill report.</p>
+            <p>However if there be any that are not ſa<g ref="char:EOLhyphen"/>tisfied of the truth thereof, I refer them to read the Life and Actions of General <hi>Monck,</hi> Page 246. 454. 476. written by that Reve<g ref="char:EOLhyphen"/>rend Divine Dr. <hi>Thomas Gumble,</hi> Chaplain to his late Grace.</p>
+            <p>Mr. <hi>James Perry,</hi> living at the <hi>White Lion</hi> in <hi>Broadſtreet</hi> in the City of <hi>Briſtol,</hi> was ſore<g ref="char:EOLhyphen"/>ly afflicted with the <hi>Dropſie,</hi> his Belly, Thighs, and Legs extremely ſwelled, and very hard;
+<pb n="4" facs="tcp:174214:4"/>inſomuch that he could not go: he had a great Cough and Suffocation of the Lungs, loathed his meat, who for the ſpace of ſeven<g ref="char:EOLhyphen"/>teen Weeks uſed all means imaginable, and and had the advice of fifteen Phyſicians; ſome cauſed him to be Cupt, others uſed Sca<g ref="char:EOLhyphen"/>rification, <hi>&amp;c.</hi> but took no effect; ſo they all left him off for a dead man: Yet by Gods Bleſſing with two or three Boxes of my Pills, which cauſed him to evacuate by Stool at ſe<g ref="char:EOLhyphen"/>veral times about 16 Gallons of diſcoloured water, beſides, forced Urine freely, all his Swellings forthwith abated, his Ulcers (un<g ref="char:EOLhyphen"/>skilfully procured) healed, and he was per<g ref="char:EOLhyphen"/>fectly cured in 36 days. This was effected in <hi>November</hi> and part of <hi>December,</hi> 1666.</p>
+            <p>Mr. <hi>Robert Liſſon,</hi> living about the middle of the <hi>Shambles</hi> in <hi>Briſtol,</hi> was very far gone in the <hi>Dropſie,</hi> and had a Cough that ſorely vexed him, was cured by a box of Pills that exceeded not twelve ſhillings.</p>
+            <p>Upon <hi>Whitſunday</hi> 1667. I was called to one Mr. <hi>Will. Kinton</hi> Copper-ſmith, living at the Red-Lion in <hi>Caſtle-ſtreet,</hi> who was troubled much with that <hi>Dropſie</hi> called <hi>Aſcites,</hi> which is when much watry humour is heaped up between the skin, or that film called <hi>Peritonaeum,</hi> and the Bowels: he had a great Cough, left by all hopeleſs, and had
+<pb n="5" facs="tcp:174214:4"/>been at a vaſt charge; was cured by two 8 ſhilling boxes of my Pills. With the ſaid Medicine was cured <hi>Richard Chandlor</hi> near the <hi>Pity-gate.</hi>
+            </p>
+            <p>Alſo <hi>Richard Davies</hi> belonging then to the Sugar-houſe in <hi>Temple-ſtreet,</hi> very far gone in that Dropſie called <hi>Anaſarca,</hi> which is when the humour is diſperſed throughout the whole Body, that the Fleſh doth appear altogether moiſt, and wet like a Spunge. This cure I effected in <hi>February</hi> 1667.</p>
+            <p>Mr. <hi>Peter Grant,</hi> living at the ſign of the Angel in St. <hi>Mary Port-ſtreet, Briſtol,</hi> be<g ref="char:EOLhyphen"/>ing brought exceeding low with the Drop<g ref="char:EOLhyphen"/>ſie, who alſo had a violent pain in his ſto<g ref="char:EOLhyphen"/>mach, his breath very ſhort; his Relations and Friends giving him over, having no hopes of his life, aged near 60: he at laſt making uſe of about 16 ſhillings worth of my Pills, was in a ſhort time perfectly Cured.</p>
+            <p>Alſo <hi>Ann Eſtridge</hi> aged near 22, in St. <hi>Pe<g ref="char:EOLhyphen"/>ters ſtreet,</hi> in the City aforeſaid, for want of her monthly ſickneſs, fell into a Dropſie, and ſo extremely ſwelled, that her belly, thighs and legs were ready to ſplit, who for ſometime lay ſpeechleſs, yet by Gods bleſ<g ref="char:EOLhyphen"/>ſing and my Pills was perfectly Cured.</p>
+            <p>One <hi>Phyllis,</hi> in <hi>Wind-ſtreet</hi> in the ſame
+<pb n="6" facs="tcp:174214:5"/>City, aged near 50. her monthly courſes had left her, and ſhe being full of excre<g ref="char:EOLhyphen"/>mentitious humors, fell into a violent Drop<g ref="char:EOLhyphen"/>ſie, <hi>&amp;c.</hi> very much ſwelled and in great pain, whom I cured in few weeks.</p>
+            <p>And for the future to prevent ſuch Acci<g ref="char:EOLhyphen"/>dents, I adviſe the Female Sex about the time that thoſe are leaving them, to take ſome of my Pills (as directed in this Book) for certainly it hath been found, and ſtill will be the beſt Medicine under the Heavens in ſuch caſes, not only to prevent the Drop<g ref="char:EOLhyphen"/>ſie, but ſeveral diſtempers that beget Mor<g ref="char:EOLhyphen"/>tality before the appointed time; which none ſhall paſs, neither can then Phyſick take the leaſt effect.</p>
+            <p>The Wife of Mr. <hi>Arthur Baker,</hi> in the Pariſh of <hi>Cromwel</hi> in the County of <hi>Gloce<g ref="char:EOLhyphen"/>ſter,</hi> afflicted much with the Dropſie, and ſorely tormented with a Spaſmus, a diſeaſe in which the ſinews are drawn and pluckt up againſt the Patients will, was cured by my Pills, though in the winter time, and very much froſt and ſnow.</p>
+            <p>Mr. <hi>James Ruſſel</hi> in <hi>Bath,</hi> I cured with one Box of my Pills.</p>
+            <p>Mr. <hi>William Underhills</hi> Son, in the Pariſh of <hi>Bitton,</hi> five miles from <hi>Briſtol,</hi> afflicted with that Dropſie called <hi>Tympanites</hi> (which
+<pb n="7" facs="tcp:174214:5"/>is when much windineſs and ſuperfluous va<g ref="char:EOLhyphen"/>pours is gathered in the aforeſaid places of the belly, was cured with two or three boxes of my Pills.</p>
+            <p>Since his Grace the late Lord General re<g ref="char:EOLhyphen"/>ceived a perfect cure in <hi>June</hi> and <hi>July</hi> 1669. by my Pills, ſeveral perſons of great Honour are ready to ſubſcribe to the Worth of this great <hi>Arcanum,</hi> having received benefit thereby.</p>
+            <p>Alſo Mr. <hi>Edmund Saunders</hi> Barriſter of the <hi>Middle-Temple,</hi> inclinable to the Dropſie and Scurvy, had help thereby, after which be<g ref="char:EOLhyphen"/>ing at <hi>Gloceſter</hi> ſent for a 12
+<abbr>
+                  <hi>s.</hi>
+               </abbr> box of my Pills, and gave them freely to the Wife of one <hi>Watkins</hi> in <hi>Wotton</hi> near the City afore<g ref="char:EOLhyphen"/>ſaid, by which means ſhe was ſoon cured, though far gone in a Dropſie. I could wiſh all (with him) that are able to be charitable to the poor.</p>
+            <p>Likewiſe Captain <hi>Anthony Langſtone,</hi> Captain <hi>Wedlow</hi> of the <hi>Sun-Tavern</hi> in <hi>Biſhops<g ref="char:EOLhyphen"/>gate ſtreet,</hi> Mr. <hi>Ford,</hi> Secretary to the Lord <hi>Roberts,</hi> received help by the Medicine afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>Mr. <hi>Lewis Reme,</hi> Painter to his Grace <hi>Chriſtopher</hi> Lord Duke of <hi>Albemarle,</hi> much troubled with the Dropſie, had help by my Pills.</p>
+            <pb n="8" facs="tcp:174214:6"/>
+            <p>Captain <hi>John Wharton,</hi> in <hi>George-yard</hi> in <hi>Kings ſtreet Weſtminſter,</hi> much troubled with the Dropſie and Scurvy, became very weak, was perfectly cured with two or three Boxes of my Pills.</p>
+            <p>Mr. <hi>Chriſtopher Brenam,</hi> at the ſign of the <hi>Chriſtopher</hi> in <hi>Duffins Alley</hi> in the ſame ſtreet, had ſpeedy help by my Pills.</p>
+            <p>Mr. <hi>Thomas Refould,</hi> and Miſtreſs <hi>Ann Refould</hi> his Wife: living at the <hi>Prince</hi> of <hi>Orange</hi> in <hi>Cannon-Row Weſtminſter,</hi> were both cured of the Dropſie with my Pills.</p>
+            <p>Mr. <hi>Baggot,</hi> Yeoman-Porter to the Gate and Park-ſtairs at <hi>White-hall,</hi> aged 80 odd, troubled much with the Scurvy and Dropſie, by taking 10 or 12 doſes of my Pills was cured.</p>
+            <p>Mr. <hi>Day,</hi> living at the Coffee-houſe in <hi>Chapple-ſtreet Weſtminſter,</hi> violently affli<g ref="char:EOLhyphen"/>cted with the Dropſie, and full of ſalt ſharp humours, his belly and members extremely ſwelled, was with ſeven 4 <hi>s.</hi> boxes of my Pills cured.</p>
+            <p>Mr. <hi>Arundel,</hi> a Bricklayer, near the place aforeſaid, afflicted with the Dropſie, was alſo cured in a ſhort time with 3 or 4 boxes of my Pills.</p>
+            <p>Serjeant <hi>Granger,</hi> in <hi>Biſhops-head Court in Grays-Inn-lane,</hi> was cured of the
+<pb n="9" facs="tcp:174214:6"/>Dropſie with two twelve ſhilling boxes of my Pills.</p>
+            <p>Corporal <hi>Davis</hi> at the five Bells in the ſame Lane, long afflicted with the Dropſie, and had a violent Aſthma, <hi>&amp;c.</hi> by reaſon of a warry humour got into the Lungs, yet by Gods bleſſing was perfectly cured with my Pills.</p>
+            <p>Mr. <hi>Shipton</hi> at the <hi>Horſe-ſhoe</hi> over againſt <hi>Clarendon Houſe.</hi>
+            </p>
+            <p>Mr. <hi>Thomas Harriſon</hi> at the <hi>Meermaid</hi> in <hi>Red-lion-fields,</hi> near <hi>Holborn.</hi>
+            </p>
+            <p>Miſtreſs <hi>Dobſon</hi> at the <hi>Jacob</hi> and 12 <hi>Sons</hi> in <hi>Redcroſs-ſtreet,</hi> were all cured of the Drop<g ref="char:EOLhyphen"/>ſie with my Pills.</p>
+            <p>Alſo Miſtreſs <hi>Ann Buckridge</hi> of <hi>Stockwel,</hi> within two miles of <hi>Lambeth.</hi>
+            </p>
+            <p>Mr. <hi>Ryves,</hi> at the Golden Anchor, the Cor<g ref="char:EOLhyphen"/>ner houſe in <hi>Lumbard-ſtreet,</hi> having an indiſ<g ref="char:EOLhyphen"/>poſition of body, at laſt fell into a Dropſie, Scurvy, <hi>&amp;c.</hi> But taking it in time, was cured with one box of my Pills.</p>
+            <p>Mr. <hi>Richard Mills</hi> his ſon of <hi>Enfield</hi> in the County of <hi>Middleſex,</hi> within 10 miles of the City of <hi>London,</hi> aged about 14 years, his belly, and members, <hi>&amp;c.</hi> very much ſwelled, his father ſought all means imaginable but found none, till he took of my Pills, with which he received a perfect cure.</p>
+            <pb n="10" facs="tcp:174214:7"/>
+            <p>Mr. <hi>Joſeph Haylock,</hi> ſervant to Mr. Al<g ref="char:EOLhyphen"/>derman <hi>Gray</hi> in the Town aforeſaid, moſt violently afflicted with the Dropſie, and had a great Cough and ſuffocation of the Lungs, <hi>&amp;c.</hi> He ſpet abundance of corrupt and foetid matter, and was left off by all for a dead man, and at laſt I cured him for three and twenty ſhillings, though in the midſt of his Cure (as many have been to their ut<g ref="char:EOLhyphen"/>ter ruine) was perſwaded againſt me, and my Pills, ſo that in plain terms he left me off for ſix weeks, but at length begg'd me to take him again, being very unwilling (when he had got a pair of Spectacles) to be perſwaded to his Grave.</p>
+            <p>☞ For this medicament is alwaies ef<g ref="char:EOLhyphen"/>fectual if taken before the Liver and the reſt of the principal bowels are putrified, or na<g ref="char:EOLhyphen"/>ture decaied (which ſoon hapneth in ſome conſtitutions) and ſometimes it pleaſeth God to afflict men with ſuch diſeaſes, as no man ſhall heal (as you may read at large in the Holy Scriptures) but where diſeaſes are cu<g ref="char:EOLhyphen"/>rable, this medicine with Gods help moſt certainly prevails; therefore you that mind your own welfare, take it in time, and my life for yours, you will have no cauſe to re<g ref="char:EOLhyphen"/>pent.</p>
+            <p>☞ Another Cure effected upon a perſon
+<pb n="11" facs="tcp:174214:7"/>of the Female Sex, being <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> troubled with ſharp humours <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. Eyes and Palat, her threat very ſore, inſomuch that ſhe could not ſpeak: I deſire her to open her mouth, I found her Palat eat off, and the root of the Tongue ulcerated; the Noſtrils very bad: with much ado ſhe con<g ref="char:EOLhyphen"/>feſſed that ſhe had been under cure, and was ſalivated; it coſt her eight pounds, but to no purpoſe: in 28 days ſhe was perfectly cu<g ref="char:EOLhyphen"/>red with two 12 ſhilling Boxes of my Pills, and the uſe of this Gargariſm made as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>Take Vine-leaves, or the tops when the leaves are not to be had, one handful; Roch-Allum, Ginger groſly beaten, of each half an ounce; Album Graecum one ounce; boil all theſe in one quart of Spring water to the conſumption of the third part, add thereto half a pound of the beſt Honey, let it boil two or three walms, ſtrain it, and gargle the Mouth and Throat therewith, and with a Sy<g ref="char:EOLhyphen"/>ringe caſt ſome into the Noſtrils warm: this done, with the uſe of the Pills, will both pre<g ref="char:EOLhyphen"/>ſerve the Noſe and Palat, <hi>&amp;c.</hi>
+            </p>
+            <p>I ſhall here inſert but only two or three Letters directed to me (though I have many more by me to the ſame purpoſe) together with a few more of the moſt admirable
+<pb n="12" facs="tcp:174214:8"/>Cures lately effected by my Pills; the Medi<g ref="char:EOLhyphen"/>cine ſo much (by ſome) ſnarled at.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>I Received yours, with the three boxes of Pills; one of which I diſpoſed of to <hi>Debo<g ref="char:EOLhyphen"/>rah Jones,</hi> living in <hi>Kings Wood</hi> near this City, aged 60 odd, who was in Cure when you were commanded from <hi>Briſtol</hi> to wait upon the Duk of <hi>Albemarle,</hi> in the beginning of <hi>June</hi> 1669. but ever ſince ſhe hath lan<g ref="char:EOLhyphen"/>guiſhed under theſe diſtempers, <hi>viz.</hi> the wind Gout, Scurvy, and Dropſie; but now it hath pleaſed God, by the means of your Pills, and Bolus, wonderfully to reſtore her beyond ex<g ref="char:EOLhyphen"/>pectation; it hath brought from her by vomit a filmous ſubſtance forth of her ſtomach the length of your hand; and ſhe alſo voided much water by ſtool, as I am credibly in<g ref="char:EOLhyphen"/>formed by her Son, whoſe name is <hi>Thomas Jones,</hi> and it is thought that one box more of your Pills will Cure her. No more at pre<g ref="char:EOLhyphen"/>ſent but my true deſires to God for your health, <hi>&amp;c.</hi> I reſt</p>
+                  <closer>
+                     <signed>
+                        <hi>Yours in all I may</hi> Jo. Cox.</signed> 
+                     <dateline>
+                        <hi>Briſtol,</hi>
+                        <date>Feb. 8, 1670/1.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="13" facs="tcp:174214:8"/>
+                  <head>Another Letter as followeth.</head>
+                  <opener>
+                     <salute>Doctor Sermon,</salute>
+                  </opener>
+                  <p>I Have a long time deſired to write, but feared to be troubleſome; but under<g ref="char:EOLhyphen"/>ſtanding your Candor and Ingenuity to all, I took this boldneſs upon me; I am not able to deſcribe my own diſtemper, but as I can I ſhall give you thus:</p>
+                  <p>I have been three or four years under a ſore affliction that took me, as a violent Ague, ſhaking me an hour or too, then a violent burning continued twenty four hours, which I ſuppoſe ſtirred up thoſe Hidropical humours that lay near the skin, for they would be ve<g ref="char:EOLhyphen"/>ry ſore, and ſwell, and I had no remedy but Plaſters to draw them: but hearing of your Pills this Winter, I took them, which brought abundance of water from me; I have taken four boxes of them, and this effect I find, my fits are now ſo little, that I ſcarce know when they come, but only by ſtirring the Humour. They did formerly take away my ſtrength, that I was not able to ſtir at all, or to turn my ſelf in my bed, but now I loſe no ſtrength (praiſed be the Lord) ſo that I hope I am near Cured.</p>
+                  <p>Sir, I have commended your Pills to a
+<pb n="14" facs="tcp:174214:9"/>Kinſwoman of mine, who I perceived was under a ſore hidropical Humour, and had uſed much means, but to no purpoſe. And with one box of them is recovered; after ſhe had taken two, then three, ſhe vomited; but coming to take four, and after that five, it brok a cake, congealed in her body, which came forth by ſtool, ſince which time ſhe is very well recovered; her mother came to me, and deſired me to acquaint you with this miraculous Cure, and returns her and her Daughters hearty thanks.</p>
+                  <p>I have many Friends that viſiting me have ſent for your Pills, and find very great good thereby. I have been bold to give you this trouble, which pray you pardon, and take the tender of my thankful gratitude to God and you for all the good I find; and ſhall reſt</p>
+                  <closer>
+                     <signed>
+                        <hi>Your ever loving and thank<g ref="char:EOLhyphen"/>ful Friend,</hi> Iſaac Rey.</signed>
+                     <dateline>
+                        <hi>Neyland</hi> in <hi>Suffolk,</hi>
+                        <date>Feb. 20. 167<gap reason="illegible" resp="#OXF" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Since the receipt of the former Letter, I received another, dated <hi>March</hi> the ſeventh, 167<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. that informs me that thoſe moſt ſad and terrible fits had quite left Mr. <hi>Rey.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="15" facs="tcp:174214:9"/>
+                  <head>Another.</head>
+                  <opener>
+                     <salute>Worthy Sir,</salute>
+                  </opener>
+                  <p>I Have received yours, and do much deſire that the great Cure which (by the bleſſing of God) your Pills have effected on my Wife ſhould be made known to the World; ſhe was very far ſpent in the Dropſie, and Scurvy, and extremely ſwelled all over her head and face, arms, body, thighs, and legs, and the ſwelling very hard; her legs were ſwelled in bigneſs above half a yard about; and ſome<g ref="char:EOLhyphen"/>times her eyes were ſwelled up that ſhe could not ſee; ſhe was likewiſe troubled with a violent Cough, and a riſing in her throat, which would ſtop her up, and many times take away her ſpeech; ſhe was alſo troubled with a violent pain in her head, and many times diſtracted with it.</p>
+                  <p>Her Condition was ſo dangerous, that ſhe made uſe of all the ableſt Phyſicians that we could here of, without finding the leaſt bene<g ref="char:EOLhyphen"/>fit by them; and they had all left her off, and ſaid that ſhe could not live many days. And it pleaſed God that ſhe heard of your Pills, which Cured her perfectly in two months, <hi>viz.</hi> in <hi>June</hi> and <hi>July,</hi> 1670. which was a great and miraculous Cure, and a wonder
+<pb n="16" facs="tcp:174214:10"/>to all that knew her. Thus with, my humble ſervice and hearty thanks to you I remain,</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed> 
+                        <hi>yours whilſt I am</hi> John Jones.</signed>
+                     <dateline>
+                        <hi>Brantham</hi> in <hi>Suffolk,</hi> near <hi>Ipſwich</hi>
+                        <date>Feb. 25. 1670/1.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Miſtreſs <hi>Anne Brinley,</hi> the Wife of Mr. Al<g ref="char:EOLhyphen"/>derman <hi>Brinley,</hi> in the City of <hi>Worceſter,</hi> moſt horribly afflicted with the Dropſie, and Scurvy, her belly, thighs, and legs, extremely ſwelled, and almoſt deprived of breath; ſhe had made uſe of many eminent and able Phyſicians, (who queſtionleſs uſed their beſt endeavours) yet to no purpoſe, and ſo left by all her neareſt Relations for a dead wo<g ref="char:EOLhyphen"/>man; but accidentally hearing of my Pills, and making uſe thereof according to directi<g ref="char:EOLhyphen"/>ons, forthwith evacuated abundance of wa<g ref="char:EOLhyphen"/>ter by ſtool, <hi>&amp;c.</hi> her ſwellings all abated in a ſhort time, and ſhe became perfectly well to admiration. This great Cure was effected about <hi>Midſommer</hi> laſt, 1670. Since which time many more of good quality, in and ad<g ref="char:EOLhyphen"/>jacent to that City, have found wonderful good thereby.</p>
+            <p>Miſtreſs <hi>Seawell,</hi> in <hi>Well-yard</hi> in little St. <hi>Bartholomews,</hi> very dangerouſly afflicted with that Dropſie called <hi>Tympanites,</hi> her
+<pb n="17" facs="tcp:174214:10"/>belly extremely ſwelled; ſhe had loſt her appetite, and was very weak; but through Gods mercy, by taking of my Pills was per<g ref="char:EOLhyphen"/>fectly reſtored to her former health.</p>
+            <p>Mr. <hi>John Walker,</hi> Attorney, living over againſt the ſign of the <hi>Whale-bone</hi> in <hi>Loth<g ref="char:EOLhyphen"/>bury,</hi> ſorely troubled with violent ſtraining, and every morning ſubject to vomit; alſo tormented with vapours ariſing from his ſto<g ref="char:EOLhyphen"/>mach, <hi>&amp;c.</hi> which did much offend his head, but never received benefit by any Medicine, before he took my Pills.</p>
+            <p>The Daughter of <hi>J. P.</hi> in the County of <hi>Gloceſter,</hi> near <hi>Bath,</hi> Aged 37. for ſeven years troubled with an ill diſtemper, which ſhe called the Whites; alſo a great weakneſs and pain in her back, ſharpneſs of Urin, <hi>&amp;c.</hi> and broke forth over all her body much like to a Leproſie; the humour ſalt and ſharp; by taking my Pills one Spring and Fall was perfectly cured. The days ſhe took no Pills I adviſed her to drink the Decoction of Plan<g ref="char:EOLhyphen"/>tain, Yarrow, Knotgraſs, and the middle bark of Elme. And ſometimes ſhe anointed the ſores with the ointment made as followeth.</p>
+            <p>Take Oyl of Roſes three ounces, the white Oyntment with Camphir two ounces, Sal. Prunellae one ounce, Crude Antimony redu<g ref="char:EOLhyphen"/>ced into very fine powder half an ounce, mix
+<pb n="18" facs="tcp:174214:11"/>them all together, and keep it for uſe.</p>
+            <p>A good old woman, formerly a Souldier in the Wars of <hi>Venus,</hi> not living many miles from the place aforeſaid, forely afflicted with the Scurvy, <hi>&amp;c.</hi> with a kind of a pocky hu<g ref="char:EOLhyphen"/>mour in her Eyes, and a filthy ſtinking Ulcer in her throat, by reaſon of which ſhe could not ſpeak, and when ſhe went to drink, it would run out at her Noſtrils, was at laſt perfectly Cured by taking four 4 <hi>s.</hi> boxes of my Pills, with the uſe of the Garga<g ref="char:EOLhyphen"/>riſm, page 11.</p>
+            <p>Another woman, Aged about 60. living near the City of <hi>Briſtol,</hi> troubled long with an Ulcer in her throat, and had violent no<g ref="char:EOLhyphen"/>cturnal pains in her Legs, <hi>&amp;c.</hi> was cured in a ſhort time by the Means aforeſaid, only ſhe took of the following Bolus three times, and ſweat as directed.</p>
+            <p>☞ How to prevent and cure the Gout (eſpe<g ref="char:EOLhyphen"/>cially where it is not hereditary or long con<g ref="char:EOLhyphen"/>tracted) with all other violent pains in the joynts, by my Pills and the following Bolus, which I have often proved to be true.</p>
+            <p>☞ Take Venice Treacle one drachm, the powder of Virginy Snake weed, Gaſcoign powder, Diaphoretick Antimony, of each 10 grains, Saffron, Salt of Scurvy-graſs, Worm<g ref="char:EOLhyphen"/>wood, and Salt of Aſh, of each 5 grains,
+<pb n="19" facs="tcp:174214:11"/>make it up into a Bolus with the ſyrrup of Ground-pine; take it about 4 or 5 of the Clock in the afternoon, by it ſelf, or with hot Sack, <hi>&amp;c.</hi> being in bed covered warm, ſweat as you are able to bear it, and rub your ſelves with warm clothes, and be ſure to take no cold. The very next morning take three or four of my Pills, more or leſs, according to the ſtrength of your bodies; thus do two days in five, the Bolus may ſerve the weaker ſort twice. I judge this method ſufficient to cure many occult and dangerous diſtempers, (eſpecially where the body is not maciated, <hi>&amp;c.</hi>) The Bolus you may have made up by any Apothecary.</p>
+            <p>I could give you an exact account of ſe<g ref="char:EOLhyphen"/>veral other great Cures effected by my Pills, upon many perſons of good quality, with the leaſt charges imaginable (and upon the Poor for nothing, it ever being part of my practice ſo to do) not only in the City of <hi>London,</hi> but in ſeveral other Cities, and parts of <hi>England</hi> and <hi>Wal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> which here to <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſert their names and dwellings, would well this beyond my preſent intentions. But if any are curious in this particular, I <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m ready to produce Letters from hundreds, therein I have thanks given me, <hi>&amp;c.</hi> for the <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dmirable Cures done by them when left
+<pb n="20" facs="tcp:174214:12"/>void of help by any other means; and I know nothing to the contrary why all may not receive Cure thereby, if they will follow taking theſe Pills for ſome time according to directions; But God knows many are fickle-minded, and (as aforeſaid) are per<g ref="char:EOLhyphen"/>ſwaded to expend their moneys upon undi<g ref="char:EOLhyphen"/>geſted, crude drugs, by every blind direction, till too late; and then, to the grief of my ſoul, I have heard them cry out, Oh that I had never ſeen ſuch and ſuch, for they per<g ref="char:EOLhyphen"/>ſwaded me againſt your Pills, when at firſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thoſe poor people (that I have turned away giving them nothing, except 6 <hi>d.</hi> to buy <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> glaſs of Wine to comfort their dying ſpirits might have received a perfect Cure by God bleſſing, with two or three boxes of m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Pills. But let ſuch as will be thus deceived acquieſce in their own Ignorance, it's indiffe<g ref="char:EOLhyphen"/>rent to me.</p>
+            <p>☞ I adviſe all Hydropical and Scorb<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tical perſons, during the time of taking the Pills (though uſually very dry) to drink little as poſſible, except of the Liquor ma<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as followeth: Take the Bark of Elder, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sage, Ground Ivy, or the Herb called A<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>hoof, Smallage, Fennel roots, Scurvy-gra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Parſly-roots, of each half a pound, of<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beſt Juniper berries one pound, Ginger <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="21" facs="tcp:174214:12"/>an ounce, cut and bruiſe all theſe, and tye them up in a thin cloath, and hang them in an earthen Stein, and pour thereto 8 Gallons of new Ale; ſo let it work together: when it is fit to drink you may drink a good draught firſt in the morning, and laſt at night. And if there be an appetite, eat any thing of light digeſtion, though the Pills have not done working; and in warm weather walk about your occaſions; for in this Medicine there is no danger; they are ſo ſafe, that it is my cu<g ref="char:EOLhyphen"/>ſtom to take them at any time of the day; they retain their virtue <hi>for many years,</hi> and are of excellent uſe for Mariners, and for ſuch as travel long Journeys by Land; for it doth not only cure ſudden Accidents, but prevents Diſeaſes, that oftentimes happen to the utter ruine of the Patient.</p>
+            <p>But ſome ſcandalouſly report, that theſe Pills are dangerous in the working, being too ſtrong for any perſon but one of extraor<g ref="char:EOLhyphen"/>dinary ſtrength of Nature. Secondly, That I have no skill in the Art of Phyſick; and that I have no other Medicine but this particular Receipt or Compoſition. But let all know, theſe are meer ſcandals, raiſed upon me by perſons of an envious ſpirit; and eſpecially by ſome of the ſame Faculty; who are afraid that this Medicine may in great mea<g ref="char:EOLhyphen"/>ſure
+<pb n="22" facs="tcp:174214:13"/>eclipſe that mercenary repute which they have gotten by fraud and ſeveral Artifices. There being nothing more certain and con<g ref="char:EOLhyphen"/>firmed (by the experience of all perſons that have made uſe of my Pills) that no Phyſick works with more facility, neither is there any that is more ſutable to every one, even the weakeſt conſtitutions: and it is well known, that I have with good ſucceſs cured all ſorts of Diſeaſes (though moſt difficult) with as great expedition as any Phyſician whatſoever. However I do not publiſh this with deſign to create a benefit to my ſelf (for it is ſufficient<g ref="char:EOLhyphen"/>ly known I need it not) but candidly and really to promote the common good, to help chiefly (as well as the rich) the meaner ſort of people, who are not able to be at that great expence in Doctors Fees, and long courſes of Phyſick; which do not only ex<g ref="char:EOLhyphen"/>hauſt the purſe, but macerate and weaken the body.</p>
+            <p>☞ Moreover, theſe Pills are good againſt violent pains in the head, breaſt, and ſtomach, extreme ſtoppage and windineſs thereof; they are alſo moſt excellent in all ſudden ſurfeits, cauſed by exceſs either in eating or drinking, which commonly violent Fevers follow, and many times death, if not pre<g ref="char:EOLhyphen"/>vented: which this medicine taken in time
+<pb n="23" facs="tcp:174214:13"/>(with Gods bleſſing) will at once help; it likewiſe opens the obſtructions of the Liver and Spleen, and expells all ſuperfluous hu<g ref="char:EOLhyphen"/>midity, and that from the Womb, being of<g ref="char:EOLhyphen"/>tentimes the cauſe of non-conception; it never hurts, but works only upon the hu<g ref="char:EOLhyphen"/>mours offending, ſo certainly prevents the worſt of diſeaſes incident to humane bo<g ref="char:EOLhyphen"/>dies. It is the only medicine to purge the Reins, it provokes Urine, hinders the gene<g ref="char:EOLhyphen"/>ration of the Gravel and Stone in the Kid<g ref="char:EOLhyphen"/>neys, ſtrengthens the veſſels ſpermatick, and are well known to help the Gonorrhea of all kinds, (without the uſe of aſtringent medi<g ref="char:EOLhyphen"/>cines) being moſt ſafe; according to that au<g ref="char:EOLhyphen"/>thentick Aphoriſm,
+<q>
+                  <hi>Sublatâ Causâ tollitur Effectus.</hi>
+               </q> They alſo are of excellent uſe for ſuch as are plethorick, and inclineable to over-much fat.</p>
+            <p>In the <hi>DROPSIE,</hi> and <hi>SCURVY,</hi> by a magnetick virtue, it attracts or draws all watry humours forth of the Blood, and all other parts, by the pores into the inteſtines, ſo carries it off by ſtool. It ſtrengthens the Li<g ref="char:EOLhyphen"/>ver, from the coldneſs and weakneſs of which all Dropſies proceed: it operates by Stool and Urine; a large doſe, which is 5 ſmall Pills, cauſeth ſometimes the Patient
+<pb n="24" facs="tcp:174214:14"/>to vomit; it is like a diligent and active Beadle, it waits upon all malignant and ex<g ref="char:EOLhyphen"/>travagant humours, never leaving them till they are out of the Corporation. In a word, it cureth when all other medicines fail, though adminiſtred by the moſt learned and long experienced Phyſicians. To the inge<g ref="char:EOLhyphen"/>nious I write; for others that can reliſh no<g ref="char:EOLhyphen"/>thing but what they do themſelves, I value them not, believing my medicine beyond their cenſure and malice.</p>
+            <p>
+               <hi>The manner of taking theſe Pills, is as followeth.</hi>
+            </p>
+            <p>
+               <hi>A Child between</hi> 6 <hi>and</hi> 10 <hi>years of age, may take one; the weaker ſort of people two or three, the ſtronger four or five,</hi> &amp;c. <hi>In the Winter take them about four or five of the clock in the morning, and ſleep thereon. In the Spring and Summer, going to bed at night, or how you find them beſt ſuit with your Conſtitutions; ſwallow them in the pap of a roſted Apple, or with any warm liquor. You need not drink Poſſet, or Broth, as with other Phyſick; but if dry, what you pleaſe,
+<pb n="25" facs="tcp:174214:14"/>as Beer, Ale, White-wine,</hi> &amp;c. <hi>They may be taken every day, every ſecond, or third; the greater occaſion, the oft<g ref="char:EOLhyphen"/>ner, if ſtrength will permit. They operate with much eaſe, and only upon peccant humours, by which means ſome are Cured in a very ſhort time, others not ſo ſoon, according to the Conſtitution and habit of the bo<g ref="char:EOLhyphen"/>dy,</hi> &amp;c.</p>
+            <p>Therefore all may not expect perfect Cure by two or three ſmall boxes of theſe Pills, (though many have enjoyed that great felici<g ref="char:EOLhyphen"/>ty) but if need require take more; and be not inveigled (by perſons of a baſe ſelf<g ref="char:EOLhyphen"/>intereſt) againſt that Medicine which with Gods help will abſolutely cure this pernici<g ref="char:EOLhyphen"/>ous diſeaſe (<hi>viz.</hi> the Dropſie) when all others fail, as by dady experience doth ap<g ref="char:EOLhyphen"/>pear; So let me adviſe the Ingenious not to prolong time, as many to their utter ruine have done, otherwiſe there need not have died of the Dropſie in this City (laſt year) nine hundred and nineteen.</p>
+            <p>Theſe Pills may be ſafely taken at any ſea<g ref="char:EOLhyphen"/>ſon of the year; if they chance to grow hard, before you take them, then roul them a little between your fingers, and they will work as
+<pb n="26" facs="tcp:174214:15"/>well as if newly prepared, though you have had them by you ſeven years.</p>
+            <p>The boxes are ſealed up with my own Seal: <hi>The</hi> 4 <hi>s. Box contains</hi> 20 <hi>Pills, The</hi> 8 <hi>s. Box</hi> 40 <hi>Pills, The</hi> 12 <hi>s. Box</hi> 60 <hi>Pills.</hi> which are diſpoſed of by my truſty Friend Mr. <hi>Edward Thomas,</hi> Bookſeller, at the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little Britain,</hi> whom I have ſolely deputed under my hand and ſeal to make ſale thereof; and he to appoint others alſo to ſell them, not only in the City of <hi>London,</hi> but in all other parts of the Kingdom, <hi>&amp;c.</hi> And are at preſent to be had as followeth:</p>
+            <p>At Major <hi>Nath. Brookes</hi> at the <hi>Angel</hi> in <hi>Cornhill</hi> near the <hi>Royal Exchange.</hi>
+            </p>
+            <p>Mr. <hi>George Calvert</hi>'s at the Golden Ball in <hi>Duck-lane.</hi>
+            </p>
+            <p>Mr. <hi>Edward Brewſter</hi> at the Crane in St. <hi>Paul</hi>'s Church-yard.</p>
+            <p>Mr. <hi>John Place</hi> next <hi>Furnivals-Inn-gate</hi> in <hi>Holborn.</hi>
+            </p>
+            <p>Mr. <hi>Allen Banks,</hi> and Mr. <hi>Charles Harper</hi> at the Flower-de-Luce in <hi>Fleetſtreet.</hi>
+            </p>
+            <p>Mr. <hi>William Crook</hi> at the Green Dragon without <hi>Temple-Bar.</hi>
+            </p>
+            <p>Mr. <hi>William Cadman</hi> Bookſeller at the entrance into the <hi>New Exchange.</hi>
+            </p>
+            <p>Mr. <hi>Thomas Parkhurſt</hi> at the Golden Bible
+<pb n="27" facs="tcp:174214:15"/>and three Crowns in <hi>Cheapſide</hi> near Mercers Chappel.</p>
+            <p>Mris. <hi>Anne Michel</hi> in <hi>Weſtminſter Hall.</hi>
+            </p>
+            <p>Captain <hi>William Newman</hi> at the Anchor in <hi>Seething Lane,</hi> near the Navy Office.</p>
+            <p>Mr. <hi>John Maſſam</hi> Stationer, at the ſign of the <hi>George</hi> in <hi>Cow-lane</hi> near <hi>Holborn</hi> Con<g ref="char:EOLhyphen"/>duit.</p>
+            <p>Mr. <hi>William Wilde</hi> under the Croſs-Keyes near <hi>Hicks</hi>'s-<hi>Hall</hi> in St. <hi>Johns<g ref="char:EOLhyphen"/>ſtreet.</hi>
+            </p>
+            <p>Mr. <hi>John Chriſtmas</hi> over againſt the <hi>Cock</hi> in <hi>Suffolk ſtreet,</hi> near <hi>Charing-Croſs.</hi>
+            </p>
+            <p>Mr. <hi>Thomas Thomas,</hi> in the City of <hi>Briſtol</hi> Bookſeller.</p>
+            <p>Mr. <hi>Alexander Davis</hi> over againſt the golden Heart in <hi>South-gate-ſtreet Gloce<g ref="char:EOLhyphen"/>ſter.</hi>
+            </p>
+            <p>Mr. <hi>John Jones</hi> Bookſeller in the City of <hi>Worceſter.</hi>
+            </p>
+            <p>Mr. <hi>Iſaac Purſs</hi> in <hi>Walton Cardiff,</hi> near <hi>Tewxbury</hi> in the County of <hi>Gloceſter.</hi>
+            </p>
+            <p>Mr. <hi>William Newton</hi> Bookſeller in <hi>Bland<g ref="char:EOLhyphen"/>ford</hi> in the County of <hi>Dorſet.</hi>
+            </p>
+            <p>Mr. <hi>William Wombwell</hi> at the Coffee<g ref="char:EOLhyphen"/>houſe in <hi>Coney-ſtreet</hi> in the City of <hi>York.</hi>
+            </p>
+            <p>Mr. <hi>William Callis</hi> an Apothecary in <hi>Lei<g ref="char:EOLhyphen"/>ceſter.</hi>
+            </p>
+            <pb n="28" facs="tcp:174214:16"/>
+            <p>Mr. <hi>Robert Harford</hi> Stationer at the Hand and Pen upon the Point in <hi>Portſmouth.</hi>
+            </p>
+            <p>Mr. <hi>John Jones</hi> in <hi>Brantham</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Suffolk</hi> near <hi>Ipſwich.</hi>
+            </p>
+            <p>Mr. <hi>William King</hi> in <hi>Leominſter</hi> in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> County of <hi>Hereford.</hi>
+            </p>
+            <p>Mr. <hi>Tho. Salmon</hi> Bookſeller in <hi>Bath.</hi>
+            </p>
+            <p>Mr. <hi>Robert Eveleigh</hi> in the City of <hi>Exe<g ref="char:EOLhyphen"/>ter</hi> Bookſeller.</p>
+            <p>Mr. <hi>William Thorpe</hi> in <hi>Weſtcheſter</hi> Book ſeller.</p>
+            <p>And at my houſe in <hi>Eaſtharding-ſtreet,</hi> a the two Black-Poſts near the ſign of Gold ſmiths Hall between <hi>Fetter-lane</hi> and <hi>Shoe lane London,</hi> where by Gods aſſiſtance <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> am now ſettled for the remaining part of m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Life. And certainly, beſides the Dropſie (according to the beſt method of Phyſick) Cures any other difficult and dangerous di<g ref="char:EOLhyphen"/>ſtemper, in the ſhorteſt time, and with the greateſt eaſe imaginable.</p>
+            <p>And for ſuch as deſire (in any diſeaſe) <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> private Cure, may be accommodated at m<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own houſe, where without fraud ſhall ſoo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have their deſires accompliſhed.</p>
+         </div>
+         <div type="postscript">
+            <pb n="29" facs="tcp:174214:16"/>
+            <head>POSTSCRIPT.</head>
+            <p>I Had almoſt forgot to let the diſcreet Rea<g ref="char:EOLhyphen"/>der know, that there are many malicious and Idle Empericks, daily perſwading the harmleſs to their graves; telling them, they underſtand the Compoſition of my Pills, <hi>&amp;c.</hi>
+            </p>
+            <p>Theſe are therefore to advertiſe all per<g ref="char:EOLhyphen"/>ſons to beware of thoſe fraudulent Impoſtors who with no leſs Arrogance than Ignorance falſely (to ruine others) pretend to the acqui<g ref="char:EOLhyphen"/>ſition of this excellent ſecret (through Gods mercy of my own Invention) wholly lock'd up in my breſt, incommunicable to any, my Wife only excepted, to whom I have made known the whole preparation thereof, that if it pleaſe God ſhe ſurvive me, it may ſtill be prepared for the benefit of my Country.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
